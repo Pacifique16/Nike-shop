@@ -2,7 +2,7 @@
 
 A modern Nike e-commerce UI/UX prototype designed in Figma, featuring product browsing, color variants, and a clean shopping experience.
 
----
+<br>
 
 ## 🔗 Live Prototype
 
@@ -10,7 +10,7 @@ A modern Nike e-commerce UI/UX prototype designed in Figma, featuring product br
 >
 > To get access, reach out via [GitHub Issues](https://github.com/Pacifique16/Nike-shop/issues) or message me directly.
 
----
+<br>
 
 ## 📸 Preview
 
@@ -18,19 +18,19 @@ A modern Nike e-commerce UI/UX prototype designed in Figma, featuring product br
 |----------|----------|----------|
 | ![First Page](assets/screenshots/first%20page.png) | ![Second Page](assets/screenshots/second%20page.png) | ![Third Page](assets/screenshots/third%20page.png) |
 
----
+<br>
 
 ## 🎥 Demo
 
 A screen recording of the full prototype interaction is available in [`assets/video/`](assets/video/).
 
----
+<br>
 
 ## 📄 Design Export
 
 The full prototype export (PDF) is available in [`docs/Nike Shop.pdf`](docs/Nike%20Shop.pdf).
 
----
+<br>
 
 ## 🗂️ Project Structure
 
@@ -45,7 +45,7 @@ nike-shop/
 └── README.md
 ```
 
----
+<br>
 
 ## 🎨 Design Highlights
 
@@ -54,7 +54,7 @@ nike-shop/
 - **Color Variants:** Red, Green, Yellow Nike shoes
 - **Pages:** 3 screens — Landing, Product, Detail
 
----
+<br>
 
 ## 👤 Author
 
