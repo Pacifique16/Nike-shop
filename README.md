@@ -60,3 +60,15 @@ nike-shop/
 
 **Pacifique Harerimana**
 - GitHub: [@Pacifique16](https://github.com/Pacifique16)
+
+<br>
+
+## ⭐ Show Your Support
+
+**If you found this project helpful or interesting, please consider giving it a star!** 🌟
+
+Your support motivates me to create more educational projects and helps others discover useful resources.
+
+
+##
+*Built with ❤️ for learning and sharing knowledge*
